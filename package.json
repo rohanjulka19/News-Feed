@@ -1,0 +1,23 @@
+{
+  "name": "news-feed",
+  "version": "1.0.0",
+  "description": "news feed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/New-Pied-Piper/News-Feed.git"
+  },
+  "keywords": [
+    "News",
+    "Feed"
+  ],
+  "author": "Pied Piper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/New-Pied-Piper/News-Feed/issues"
+  },
+  "homepage": "https://github.com/New-Pied-Piper/News-Feed#readme"
+}
